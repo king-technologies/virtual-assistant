@@ -30,6 +30,8 @@
 </a>
 </p>
 
+<p align="center" title="Virtual Assistant"><img src="./assets/images/main.png" alt="Virtual Assistant"/></p>
+
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
     <a href="https://youtu.be/LQr3iyLHiU8" title="Virtual Assistant using Python">🖥️ Video</a>
