@@ -1,0 +1,8 @@
+SpeechRecognition
+clipboard
+newsapi
+newsapi-python
+psutil
+pyaudio
+pyautogui
+pyttsx3
