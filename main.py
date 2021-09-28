@@ -1,20 +1,22 @@
 import datetime
-from email.message import EmailMessage
-from secret import senderemail, password
-import smtplib
-import webbrowser as we
-from time import sleep
-import pyautogui
-import requests
-from newsapi import NewsApiClient
-import pywhatkit
-import clipboard
 import os
-import pyjokes
+import smtplib
 import time as ti
+import webbrowser as we
+from email.message import EmailMessage
+from time import sleep
+
+import clipboard
 import psutil
+import pyautogui
+import pyjokes
 import pyttsx3
+import pywhatkit
+import requests
 import speech_recognition as sr
+from newsapi import NewsApiClient
+
+from secret import password, senderemail
 
 # for index, name in enumerate(sr.Microphone.list_microphone_names()):
 #     print("Microphone with name\"{1}\" found for `Microphone(device_index={0}`)".format(
